@@ -1,0 +1,13 @@
+Receipt
+ Delivery Method: Home Delivery
+----------------------------------------
+1. Cabbage - 3.0 kg ---> ₹30/kg = ₹90.00
+2. Tomato - 4.0 kg ---> ₹50/kg = ₹200.00
+3. Spinach - 3.0 kg ---> ₹30/kg = ₹90.00
+4. Onion - 3.0 kg ---> ₹40/kg = ₹120.00
+Delivery Fee: ₹20
+----------------------------------------
+Total Amount (including delivery): ₹520.00
+****************************************
+         Thank You for Shopping!         
+****************************************

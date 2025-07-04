@@ -1,0 +1,28 @@
+{
+  "cart": [
+    {
+      "name": "Cabbage",
+      "quantity": 3.0,
+      "price_per_kg": 30,
+      "subtotal": 90.0
+    },
+    {
+      "name": "Tomato",
+      "quantity": 4.0,
+      "price_per_kg": 50,
+      "subtotal": 200.0
+    },
+    {
+      "name": "Spinach",
+      "quantity": 3.0,
+      "price_per_kg": 30,
+      "subtotal": 90.0
+    },
+    {
+      "name": "Onion",
+      "quantity": 3.0,
+      "price_per_kg": 40,
+      "subtotal": 120.0
+    }
+  ]
+}
